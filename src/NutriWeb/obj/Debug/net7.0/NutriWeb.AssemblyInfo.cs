@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NutriWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0039b026438abda3e5c815d62cc8daa749208895")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c33fa5799b702cff5671745cca04a93cfd17da6")]
 [assembly: System.Reflection.AssemblyProductAttribute("NutriWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NutriWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
